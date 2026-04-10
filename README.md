@@ -64,8 +64,6 @@ project/
 ├── reports/
 │   └── figures/                   # Gráficos gerados
 │       ├── diagrama_dispersao.png
-│       ├── regressao_linear.png
-│       ├── histograma_residuos.png
 │       └── qqplot_residuos.png
 │
 └── README.md
